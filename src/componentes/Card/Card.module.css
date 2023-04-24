@@ -1,0 +1,29 @@
+.container {
+  padding: 0 0 1em 0;
+  margin-top: 0.5em;
+  width: 282px;
+  background-color: var(--grey);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--black);
+  text-align: left;
+}
+
+.capa {
+  width: 100%;
+}
+
+.container h3,
+.favoritar {
+  padding: 0 1em;
+  text-align: center;
+}
+
+.favoritar {
+  width: 25px;
+}

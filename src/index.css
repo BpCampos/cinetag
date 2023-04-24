@@ -1,0 +1,14 @@
+:root {
+  --fonte: "Monteserrat", sans-serif;
+  --black: #000000;
+  --white: #ffffff;
+  --grey: #e2e2e2;
+}
+
+body {
+  font-family: var(--fonte);
+  background-color: var(--white);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
